@@ -8,4 +8,3 @@ This repository focuses on understanding Gaussian Processes by implementing:
 - Common kernel functions (RBF, Linear, Periodic)
 - Log marginal likelihood
 - Experiments on sinusoidal data
-- 
